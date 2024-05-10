@@ -55,6 +55,15 @@ header{
         margin: 0 16px;
         font-size: 24px;
     }
+    
+    body {  		
+        background-color: #000000;  	
+     }    
+     h1 {  		
+        color: #000000;  		
+        background-color: #000000;    	
+     } 
+    
     .dono-imagem{
         width: 100px;
  }
