@@ -65,8 +65,15 @@ header{
      } 
     
     .dono-imagem{
-        width: 100px;
+        max-width:600px;
+        max-height:550px;
+        width: auto;
+        height: auto;
  }
     .dono2-imagem{
-    width: 25px;
+        max-width:600px;
+        max-height:550px;
+        width: auto;
+        height: auto;
+}
     }
