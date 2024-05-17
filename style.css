@@ -7,7 +7,7 @@ header{
  
  
  .logotipo{
-    width: 120px;
+    width: 220px;
     position: relative;
     top: 20px;
     left: 20px;
@@ -32,7 +32,7 @@ header{
  
  
  
-    *{
+    
         margin: 0;
         padding: 0;
     }
@@ -56,24 +56,17 @@ header{
         font-size: 24px;
     }
     
-    body {  		
-        background-color: #000000;  	
-     }    
-     h1 {  		
-        color: #000000;  		
-        background-color: #000000;    	
-     } 
-    
     .dono-imagem{
-        max-width:200px;
-        max-height:200px;
+        max-width:600px;
+        max-height:550px;
         width: auto;
         height: auto;
- }
+    } 
+
+
     .dono2-imagem{
-        max-width:200px;
-        max-height:200px;
+        max-width:600px;
+        max-height:550px;
         width: auto;
         height: auto;
 }
-    }
